@@ -3,3 +3,6 @@ First update
 
 This is an update to file 1
 Good job!!
+
+Another update to file1
+We are awesome!!
